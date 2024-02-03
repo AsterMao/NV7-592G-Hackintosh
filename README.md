@@ -7,5 +7,5 @@ Audio              Realtek ALC255
 Wifi               AX1650x
 Monitor            1920 x 1080
 macOS Version      Monterey
-OpenCore Version   0.6.3
+OpenCore Version   0.9.3
 ```
