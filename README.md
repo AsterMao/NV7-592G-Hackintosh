@@ -1,0 +1,1 @@
+# NV7-592G-Hackintosh
