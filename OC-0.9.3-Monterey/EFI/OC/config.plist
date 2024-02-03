@@ -403,10 +403,30 @@
 				<data>AAAbGQ==</data>
 				<key>device-id</key>
 				<data>GxkAAA==</data>
+				<key>device_type</key>
+				<data>AKwAAAAL7AAAAAA=</data>
+				<key>disable-external-gpu</key>
+				<data>AQAAAA==</data>
 				<key>enable-hdmi20</key>
 				<data>AQAAAA==</data>
+				<key>framebuffer-con1-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con1-type</key>
+				<data>AAgAAA==</data>
+				<key>framebuffer-con2-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con2-index</key>
+				<data>/////w==</data>
+				<key>framebuffer-con2-type</key>
+				<data>AAgAAA==</data>
+				<key>framebuffer-fbmem</key>
+				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
+				<key>framebuffer-portcount</key>
+				<data>AgAAAA==</data>
+				<key>framebuffer-stolenmem</key>
+				<data>AAAwAQ==</data>
 				<key>framebuffer-unifiedmem</key>
 				<data>AAAAgA==</data>
 				<key>model</key>
@@ -1403,7 +1423,7 @@
 				<key>SystemAudioVolume</key>
 				<data>UA==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 alcid=17 -wegbeta -wegnoegpu igfxonln=1 -no_compat_check darkwake=0 swd_panic=1 -noDC9 -lilubetaallay=1</string>
+				<string>keepsyms=1 debug=0x100 alcid=17 -igfxhdmidivs agdpmod=vit9696</string>
 				<key>csr-active-config</key>
 				<data>ZwAAAA==</data>
 				<key>prev-lang:kbd</key>
